@@ -1,0 +1,50 @@
+body {
+    
+    color: darkgreen;
+
+    font-family: cursive, fantasy, monospace;
+        
+        font-size :20fx;
+        
+        background-image: url(1111.jpg);
+        
+
+
+}
+
+
+img {
+    
+   width: %50;
+    border: 3px dotted blue;
+    border-radius: 15%;
+    display: block;
+    margin: auto;
+       
+}
+
+h1 {
+    
+    border-bottom: 5px solid green;
+    text-align: center;
+    background-color: #ffedf6;
+}
+
+.paragraph1 {
+    
+    color: red;
+    text-align: center;
+}
+
+
+.kirmizi{
+    
+    color: red;
+} 
+
+
+.patates { 
+    
+    text-align: center;
+
+}
